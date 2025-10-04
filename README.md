@@ -51,8 +51,8 @@ Berikut adalah langkah-langkah untuk menjalankan proyek ini di lingkungan lokal.
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/](https://github.com/rizanss/cs-chatbot-agent.git)
-    cd https://github.com/rizanss/cs-chatbot-agent
+    git clone [https://github.com/cs-chatbot-agent.git](https://github.com/rizanss/cs-chatbot-agent.git)
+    cd cs-chatbot-agent
     ```
 
 2.  **Setup Virtual Environment & Install Dependencies**
