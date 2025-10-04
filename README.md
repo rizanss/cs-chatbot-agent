@@ -1,6 +1,16 @@
 # Customer Service AI Chatbot
 
-![Screenshot Chatbot](https://via.placeholder.com/600x400.png?text=Drag+and+Drop+Screenshot+UI+Anda+ke+Sini)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.100.0-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-Powered-f29f05?style=for-the-badge&logo=langchain&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-LLM_API-5A45FF?style=for-the-badge&logo=groq&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![CS Chatbot Agent Demmo](./assets/cs-chatbot-agent-demo.gif)
 
 ## 📝 Deskripsi Singkat
 
